@@ -19,7 +19,7 @@ def clock(minutes):
             print("Wake up!")
             true= False
 
-    playsound("C:/Users/ppvar/OneDrive/Documents/Devara_bgm.mp3")
+    playsound("Edit the File Path")
 
 
 
